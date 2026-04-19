@@ -41,7 +41,8 @@ This dashboard provides a comprehensive view of sales performance across differe
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](<img width="2767" height="1600" alt="Project 1-1" src="https://github.com/user-attachments/assets/8a549803-7d2d-4cdb-bc12-b91abb5a2f77" />)
+![Dashboard Preview]
+<img width="2767" height="1600" alt="Project 1-1" src="https://github.com/user-attachments/assets/cf7cc886-3485-4af8-a712-690cf520f54a" />
 
 
 ---
